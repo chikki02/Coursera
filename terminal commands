@@ -1,0 +1,4 @@
+gcc ab.c -o ab 
+this command makes the file ab.c written c language, compiles ina binary file and then we 
+can run it as ./ab to get the output
+ab will not be a viewable file so dont worry about that just check the output
